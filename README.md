@@ -1,4 +1,4 @@
-![Banner](pics/banner.jpg)
+<img src="pics/banner.jpg" width="100%" alt="Banner">
 
 # Hi there! 👋 I'm KatanaName
 
