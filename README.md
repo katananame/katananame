@@ -49,8 +49,15 @@ I create full-stack web applications using modern technologies. On the frontend,
 - API development best practices
 - Testing frameworks for full-stack applications
 
+## My Projects
+🔗 Check out my portfolio: [Portfolio Website](https://katananame.github.io/portfolio/)
 
+Here you can find my latest projects and developments. My portfolio showcases my skills in:
+- Frontend Development
+- Backend Development
+- Full-Stack Applications
+- UI/UX Design
+- And more!
 
-###
 ---
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
