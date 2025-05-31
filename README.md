@@ -1,3 +1,5 @@
+![Banner](pics/banner.jpg)
+
 # Hi there! 👋 I'm KatanaName
 
 ## About Me
