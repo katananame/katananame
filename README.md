@@ -1,23 +1,22 @@
 <div>
 
-
-
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 
 </div>
 
 ###
 
-# Hi there, I'm Vadim Morozov
+# Hi there, I'm Vadim Morozov 👋
 
 ## About Me
 
-I'm an 18-year-old Python Junior Developer from Kyiv, Ukraine. I'm passionate about building web applications, creating bots, and continuously learning new technologies. Currently, I'm working on improving my skills and building projects that solve real-world problems.
+I'm an 18-year-old **Rust & TypeScript Junior Developer** from Kyiv, Ukraine.  
+I focus on building **modern web applications**, experimenting with **systems programming**, and continuously improving my engineering skills.
 
 - **Location:** Kyiv, Ukraine
 - **Goal:** To work as a developer in Germany
 - **English Level:** B2
-- **Focus:** Backend development, Bot development, Web applications
+- **Focus:** Backend development, Web applications, Systems programming
 
 ## Skills & Technologies
 
@@ -36,39 +35,37 @@ I'm an 18-year-old Python Junior Developer from Kyiv, Ukraine. I'm passionate ab
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
-  
 
 </div>
 
 ## What I Do
 
-- **Web Development:** Building web applications using Django framework
-- **Bot Development:** Creating Telegram bots with aiogram and Discord bots with Python and JavaScript
-- **Database Management:** Working with MongoDB and SQLite databases
-- **Version Control:** Using Git and GitHub for project management and collaboration
-- **Frontend Basics:** Creating responsive layouts with HTML and CSS
+- **Web Development:** Building modern web applications with **React** and **Next.js**
+- **Backend & Systems:** Writing efficient and safe backend logic using **Rust**
+- **Type-Safe Code:** Developing scalable applications with **TypeScript**
+- **Containerization:** Using **Docker** to package and run applications
+- **Cross-Platform:** Exploring **Android** development and mobile integrations
 
 ## Technical Knowledge
 
-- **Programming Languages:** Python, JavaScript
-- **Frameworks:** Django
-- **Databases:** MongoDB, SQLite
-- **Object-Oriented Programming:** Understanding of OOP principles and patterns
+- **Programming Languages:** Rust, TypeScript, JavaScript
+- **Frontend:** React, Next.js
+- **Systems Programming:** Memory safety, performance-oriented code with Rust
+- **Containerization:** Docker
 - **Version Control:** Git, GitHub
-- **Frontend:** HTML5, CSS3
-- **Bot Frameworks:** aiogram (Telegram), Discord.py / discord.js
+- **Platforms:** Web, Android
 
 ## Current Focus
 
-I'm continuously improving my skills and working on various projects. My main focus areas include:
-- Deepening my understanding of Django and web development
-- Building more complex bot applications
-- Learning best practices in software development
-- Preparing for opportunities in Germany
+I'm currently focused on:
+- Deepening my knowledge of **Rust** for backend and system-level development
+- Building full-stack projects with **TypeScript + React / Next.js**
+- Writing clean, maintainable, and type-safe code
+- Preparing for developer opportunities in **Germany**
 
 ## Let's Connect
 
-Feel free to reach out if you'd like to collaborate on a project or just have a chat about development!
+Feel free to reach out if you'd like to collaborate on a project or discuss Rust, TypeScript, or modern web development 🚀
 
 ---
 
@@ -81,4 +78,3 @@ Feel free to reach out if you'd like to collaborate on a project or just have a 
 </div>
 
 ###
-
