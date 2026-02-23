@@ -1,22 +1,15 @@
-Hi, I'm Vadim 👋
+# Vadim
 
-I'm a junior **Rust & TypeScript developer** from Kyiv, Ukraine.  
-I build modern web applications and experiment with systems programming.
+**Founder & CEO, Katanacy**
+Rust • TypeScript • Python
 
-**Focus:** Web & Backend development  
-**Goal:** Developer job in Germany  
-**English:** B2
+---
 
-### Tech
-- Rust
-- TypeScript / JavaScript
-- React, Next.js
-- Docker
-- Git & GitHub
+- **Location:** Kyiv, Ukraine (Relocating to Germany)
+- **English:** C1 (Advanced)
+- **Focus:** Systems, Cross-platform Apps, Bot Ecosystems
+- **Tech:** React, Next.js, Tauri (Fluent Glassmorphism), Docker
 
-### What I do
-- Build type-safe web applications
-- Write backend logic with Rust
-- Learn system-level and performance-oriented programming
+---
 
-Feel free to connect or collaborate 🚀
+*"Building the future with type-safety and aesthetic precision."*
